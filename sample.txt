@@ -1,0 +1,10 @@
+This is a sample text file, used for testing.
+It contains exactly ten lines in total.
+Each line has a different number of words.
+Words are separated by spaces, as usual.
+The file is designed for Python file processing.
+Python programs can read this file easily.
+It will count the lines, words, and characters.
+Characters include letters, spaces, and punctuation.
+This is the ninth line of the sample.
+Last line of the sample text file here.
